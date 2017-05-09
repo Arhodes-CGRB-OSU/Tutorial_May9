@@ -1,4 +1,5 @@
 ## Introduction
+
 This R tutorial show how to extract individual genome bins from metagenomes, as descibed in Albertsen et al., 2013 (Add link). The guide is written in R markdown and can be found [HERE](https://github.com/MadsAlbertsen/multi-metagenome/tree/gh-pages/docs).
 
 ### Requirements
